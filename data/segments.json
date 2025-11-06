@@ -1,0 +1,7 @@
+[
+  {"name": "Passenger", "subsegments": ["Small", "Medium", "Large", "Upper Large", "People Mover", "Sports"]},
+  {"name": "SUV", "subsegments": ["Small SUV", "Medium SUV", "Large SUV", "Upper Large SUV"]},
+  {"name": "Light Commercial", "subsegments": ["Van", "Ute", "Cab Chassis", "Pickup"]},
+  {"name": "Heavy Commercial", "subsegments": ["Truck", "Bus", "Prime Mover"]}
+]
+

@@ -1,0 +1,23 @@
+[
+  {"code": "2000", "name": "Sydney", "state": "NSW", "lat": -33.8688, "lng": 151.2093},
+  {"code": "3000", "name": "Melbourne", "state": "VIC", "lat": -37.8136, "lng": 144.9631},
+  {"code": "4000", "name": "Brisbane", "state": "QLD", "lat": -27.4698, "lng": 153.0251},
+  {"code": "5000", "name": "Adelaide", "state": "SA", "lat": -34.9285, "lng": 138.6007},
+  {"code": "6000", "name": "Perth", "state": "WA", "lat": -31.9505, "lng": 115.8605},
+  {"code": "7000", "name": "Hobart", "state": "TAS", "lat": -42.8821, "lng": 147.3272},
+  {"code": "800", "name": "Darwin", "state": "NT", "lat": -12.4634, "lng": 130.8456},
+  {"code": "2600", "name": "Canberra", "state": "ACT", "lat": -35.2809, "lng": 149.1300},
+  {"code": "2010", "name": "Surry Hills", "state": "NSW", "lat": -33.8847, "lng": 151.2093},
+  {"code": "3004", "name": "St Kilda", "state": "VIC", "lat": -37.8676, "lng": 144.9780},
+  {"code": "4001", "name": "Fortitude Valley", "state": "QLD", "lat": -27.4567, "lng": 153.0350},
+  {"code": "5001", "name": "Adelaide CBD", "state": "SA", "lat": -34.9285, "lng": 138.6007},
+  {"code": "6001", "name": "Perth CBD", "state": "WA", "lat": -31.9505, "lng": 115.8605},
+  {"code": "2011", "name": "Darlinghurst", "state": "NSW", "lat": -33.8807, "lng": 151.2193},
+  {"code": "3005", "name": "South Melbourne", "state": "VIC", "lat": -37.8333, "lng": 144.9667},
+  {"code": "4002", "name": "New Farm", "state": "QLD", "lat": -27.4700, "lng": 153.0450},
+  {"code": "5002", "name": "North Adelaide", "state": "SA", "lat": -34.9085, "lng": 138.6007},
+  {"code": "6002", "name": "West Perth", "state": "WA", "lat": -31.9505, "lng": 115.8405},
+  {"code": "2015", "name": "Alexandria", "state": "NSW", "lat": -33.9000, "lng": 151.2000},
+  {"code": "3006", "name": "South Yarra", "state": "VIC", "lat": -37.8383, "lng": 144.9917}
+]
+

@@ -1,0 +1,23 @@
+{
+  "Toyota": ["Camry", "Corolla", "RAV4", "Hilux", "LandCruiser", "Kluger", "Yaris", "Prius", "Prado", "Aurion"],
+  "Ford": ["Ranger", "Everest", "Focus", "Mustang", "Territory", "Falcon", "Escape", "Fiesta", "Mondeo", "Edge"],
+  "Holden": ["Commodore", "Colorado", "Trax", "Astra", "Trailblazer", "Captiva", "Barina", "Cruze", "Equinox", "Acadia"],
+  "Mazda": ["CX-5", "CX-3", "Mazda3", "Mazda6", "BT-50", "CX-9", "MX-5", "CX-30", "Mazda2", "CX-8"],
+  "Mitsubishi": ["Triton", "Outlander", "ASX", "Pajero", "Eclipse Cross", "Lancer", "Mirage", "Challenger", "Express", "Delica"],
+  "Hyundai": ["i30", "Tucson", "Santa Fe", "Kona", "Elantra", "Accent", "Venue", "Palisade", "IONIQ", "Genesis"],
+  "Kia": ["Sportage", "Sorento", "Cerato", "Rio", "Stonic", "Seltos", "Carnival", "Optima", "Picanto", "Niro"],
+  "Nissan": ["Navara", "X-Trail", "Qashqai", "Pathfinder", "Patrol", "Juke", "Micra", "Altima", "Maxima", "Leaf"],
+  "Volkswagen": ["Golf", "Tiguan", "Passat", "Amarok", "Polo", "Touareg", "Jetta", "Beetle", "T-Cross", "Arteon"],
+  "Subaru": ["Forester", "Outback", "XV", "Impreza", "Legacy", "WRX", "BRZ", "Ascent", "Levorg", "Tribeca"],
+  "Honda": ["CR-V", "Civic", "Accord", "HR-V", "Pilot", "Odyssey", "Ridgeline", "Insight", "Fit", "Passport"],
+  "BMW": ["3 Series", "5 Series", "X3", "X5", "1 Series", "X1", "7 Series", "X7", "2 Series", "4 Series"],
+  "Mercedes-Benz": ["C-Class", "E-Class", "GLC", "GLE", "A-Class", "GLA", "S-Class", "GLS", "B-Class", "CLA"],
+  "Audi": ["A3", "A4", "Q5", "Q7", "A6", "Q3", "A5", "Q8", "TT", "e-tron"],
+  "Lexus": ["RX", "NX", "ES", "IS", "LX", "UX", "GS", "LS", "RC", "GX"],
+  "Volvo": ["XC60", "XC90", "XC40", "S60", "V60", "S90", "V90", "XC70", "C30", "S40"],
+  "Jeep": ["Grand Cherokee", "Wrangler", "Cherokee", "Compass", "Renegade", "Patriot", "Commander", "Liberty", "Gladiator", "Wagoneer"],
+  "Land Rover": ["Discovery", "Range Rover", "Range Rover Sport", "Defender", "Evoque", "Velar", "Discovery Sport", "Freelander", "Range Rover Classic"],
+  "Tesla": ["Model 3", "Model S", "Model X", "Model Y", "Roadster", "Cybertruck", "Semi"],
+  "Isuzu": ["D-Max", "MU-X", "NPR", "NQR", "FTR", "FVR", "FXR", "Giga"]
+}
+
